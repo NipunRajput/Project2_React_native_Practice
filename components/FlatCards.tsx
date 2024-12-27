@@ -22,9 +22,9 @@ export default function FlatCards() {
                 Blue
             </Text>
         </View>
-        <View style={[styles.card,styles.cardThree]}>
+        <View style={[styles.card,styles.cardFour]}>
             <Text>
-                Blue
+                Yellow
             </Text>
         </View>
       </View>
@@ -61,6 +61,9 @@ const styles = StyleSheet.create({
     },
     cardThree:{
         backgroundColor:'#5DA3FA',   
+    },
+    cardFour:{
+        backgroundColor:'#FFFF00',   
     }
 
 });
