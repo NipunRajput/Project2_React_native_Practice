@@ -1,3 +1,5 @@
+//npx @react-native-community/cli init Yolo01
+
 //rnfs
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
